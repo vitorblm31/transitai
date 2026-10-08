@@ -2,9 +2,7 @@
 
 Modelagem preditiva de agrupamento de ônibus (*bunching*) para apoiar a regulação operacional de frotas urbanas, com a SPTrans (São Paulo) como organização-alvo.
 
-Projeto aplicado da disciplina **Aprendizagem de Máquina Supervisionada (MLS 2026.2)**, Ciência de Dados para Negócios, UFPB/CCSA.
-
-**Equipe:** Vítor Batista, Marcello Siqueira, Ricardo César.
+Projeto aplicado da disciplina **Aprendizagem de Máquina Supervisionada**, Ciência de Dados para Negócios, UFPB/CCSA.
 
 ## Problema
 
